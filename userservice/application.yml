@@ -9,4 +9,6 @@ spring:
 #      ddl-auto: update
     show-sql: true
 
+current.environment: "This config is coming from the UAT branch"
+
 
