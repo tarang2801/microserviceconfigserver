@@ -1,1 +1,5 @@
-
+spring:
+  application:
+    name: ratingservice
+  mongodb:
+    uri: mongodb://localhost:27017/microservice
